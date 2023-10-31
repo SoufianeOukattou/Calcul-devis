@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "454516970739",
+    "project_id": "generatedevis",
+    "storage_bucket": "generatedevis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454516970739:android:ffe555cbd290d28ad79386",
+        "android_client_info": {
+          "package_name": "com.example.calculdevis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454516970739-7sa0h83e5k902nmg7bka7le4rpv9724m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkC7njo1mlIfqmQMFB_xq_rzCqkTWMD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454516970739-7sa0h83e5k902nmg7bka7le4rpv9724m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454516970739-4ubjpg7r7r16oadah987o4vpl0eg5fot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calculdevis.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
